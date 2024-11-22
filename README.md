@@ -4,7 +4,7 @@
   - I love learning new things and software
   - I am eager to learn from industry best practices and contribute to impactful software projects.
   - As a Full Stack and Mobile Developer, I constantly move myself forward in the software world by developing projects in Frontend, Backend, React Native and React, Node.js)
-- 📫 How to reach me oznuroncel@gmail.com
+- 📫 How to reach me oznuroncel10@gmail.com
   
 
 <!---
