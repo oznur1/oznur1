@@ -1,4 +1,4 @@
--👋Hi, I’m ÖZNUR
+👋Hi, I’m ÖZNUR
   -🔭 I’m currently learning software developer and I'm still improving myself.
  - 💻I develop projects with React, Javascript & React Native.
 - 👀  I love learning new things and software.
