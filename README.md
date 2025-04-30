@@ -1,11 +1,14 @@
-👋Hi, I’m ÖZNUR
+Hello! I'm Öznur, a passionate and ambitious Full Stack & Mobile Developer. My journey in the world of software development is driven by my enthusiasm for creating clean, efficient, and scalable solutions that have a real-world impact.
 
-   -🔭 I’m currently learning software developer and I'm still improving myself.
-  - 💻I develop projects with React, Javascript & React Native.
- - 👀  I love learning new things and software.
-  - 🛠 I am eager to learn from industry best practices and contribute to impactful software projects.
- - 🤭  As a Full Stack and Mobile Developer, I constantly move myself forward in the software world by developing projects in Frontend, Backend, React Native and React, Node.js).
- - 📫 How to reach me oznuroncel10@gmail.com
+🌱 Constantly Evolving: I am always learning and growing, whether it's mastering new frameworks, refining my coding practices, or exploring innovative tools in the tech industry.
+
+💻 Building Real-World Solutions: I specialize in building intuitive user interfaces and robust backend systems with React, React Native, and Node.js.
+
+🔍 Curious & Driven: I have an insatiable curiosity for technology and am always eager to explore the latest trends in development, software architecture, and mobile app design.
+
+🛠 Impactful Contributions: I believe in the power of open-source and aim to contribute to meaningful projects that solve problems and make lives easier for users around the globe.
+
+🚀 Future-Focused: As I continue my journey, I'm excited to expand my knowledge in DevOps, cloud technologies, and AppSec to stay at the forefront of the software development field.
 
 
 <h3 align="center">A passionate frontend developer from TURKEY</h3>
