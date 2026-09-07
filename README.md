@@ -1,4 +1,4 @@
-# Hi, I'm Öznur 👋
+# Hi, I'm Oznur 👋
 
 I'm a **Full Stack & Mobile Developer with 6+ years of experience** building scalable web and mobile applications, with a strong focus on **ERP, Logistics, Supply Chain, and business-critical systems**.
 
