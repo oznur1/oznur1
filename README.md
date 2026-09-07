@@ -1,17 +1,87 @@
-Hello! I'm Öznur, a passionate and ambitious Full Stack & Mobile Developer. My journey in the world of software development is driven by my enthusiasm for creating clean, efficient, and scalable solutions that have a real-world impact.
+# Hi, I'm Öznur 👋
 
-🌱 Constantly Evolving: I am always learning and growing, whether it's mastering new frameworks, refining my coding practices, or exploring innovative tools in the tech industry.
+I'm a **Full Stack & Mobile Developer with 6+ years of experience** building scalable web and mobile applications, with a strong focus on **ERP, Logistics, Supply Chain, and business-critical systems**.
 
-💻 Building Real-World Solutions: I specialize in building intuitive user interfaces and robust backend systems with React, React Native, and Node.js.
+I enjoy turning complex business requirements into **clean, maintainable, and production-ready software**.
 
-🔍 Curious & Driven: I have an insatiable curiosity for technology and am always eager to explore the latest trends in development, software architecture, and mobile app design.
+### 💻 What I Do
 
-🛠 Impactful Contributions: I believe in the power of open-source and aim to contribute to meaningful projects that solve problems and make lives easier for users around the globe.
+* Build scalable **Full Stack web applications**
+* Develop cross-platform mobile applications with **React Native**
+* Design and develop backend services and APIs with **Node.js & NestJS**
+* Build **microservice-based architectures**
+* Work with relational and NoSQL databases
+* Develop ERP, logistics, shipment, and operational management systems
+* Design responsive and intuitive user interfaces
+* Improve application performance, reliability, and maintainability
 
-🚀 Future-Focused: As I continue my journey, I'm excited to expand my knowledge in DevOps, cloud technologies, and AppSec to stay at the forefront of the software development field.
+### 🛠 Tech Stack
 
+**Frontend**
 
-<h3 align="center">A passionate frontend developer from TURKEY</h3>
+* React
+* Next.js
+* TypeScript
+* Redux Toolkit
+* Tailwind CSS
+
+**Mobile**
+
+* React Native
+* Firebase
+
+**Backend**
+
+* Node.js
+* NestJS
+* Express
+* REST APIs
+* Microservices
+* RabbitMQ
+* JWT
+
+**Databases**
+
+* PostgreSQL
+* MongoDB
+* Prisma
+* Drizzle ORM
+
+**DevOps & Tools**
+
+* Docker
+* Kubernetes
+* GitHub Actions
+* GitLab CI/CD
+* Git
+* Linux
+
+**Testing**
+
+* Jest
+* Vitest
+* React Testing Library
+
+### 🚀 Currently Exploring
+
+I'm continuously expanding my expertise in:
+
+* **System Design**
+* **Cloud Architecture**
+* **DevOps & CI/CD**
+* **Application Security**
+* **AI APIs & LLM Integration**
+* Distributed systems and scalable backend architecture
+
+### 🌍 Open to Opportunities
+
+I'm currently interested in **Full Stack, Backend, and Mobile Developer opportunities** where I can contribute to challenging products, scalable systems, and real-world business problems.
+
+**Open to relocation and international opportunities.**
+
+---
+
+> "Build software that solves real problems."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
