@@ -1,83 +1,23 @@
 # Hi, I'm Oznur 👋
 
-I'm a **Full Stack & Mobile Developer with 6+ years of experience** building scalable web and mobile applications, with a strong focus on **ERP, Logistics, Supply Chain, and business-critical systems**.
+**Full Stack & Mobile Developer** with 6+ years of experience building scalable web and mobile applications, focused on **ERP, logistics, and supply chain systems**.
 
-I enjoy turning complex business requirements into **clean, maintainable, and production-ready software**.
-
-### 💻 What I Do
-
-* Build scalable **Full Stack web applications**
-* Develop cross-platform mobile applications with **React Native**
-* Design and develop backend services and APIs with **Node.js & NestJS**
-* Build **microservice-based architectures**
-* Work with relational and NoSQL databases
-* Develop ERP, logistics, shipment, and operational management systems
-* Design responsive and intuitive user interfaces
-* Improve application performance, reliability, and maintainability
+I turn complex business requirements into clean, maintainable, production-ready software.
 
 ### 🛠 Tech Stack
 
-**Frontend**
-
-* React
-* Next.js
-* TypeScript
-* Redux Toolkit
-* Tailwind CSS
-
-**Mobile**
-
-* React Native
-* Firebase
-
-**Backend**
-
-* Node.js
-* NestJS
-* Express
-* REST APIs
-* Microservices
-* RabbitMQ
-* JWT
-
-**Databases**
-
-* PostgreSQL
-* MongoDB
-* Prisma
-* Drizzle ORM
-
-**DevOps & Tools**
-
-* Docker
-* Kubernetes
-* GitHub Actions
-* GitLab CI/CD
-* Git
-* Linux
-
-**Testing**
-
-* Jest
-* Vitest
-* React Testing Library
+- **Frontend:** React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS
+- **Mobile:** React Native, Firebase
+- **Backend:** Node.js, NestJS, Express, REST, Microservices, RabbitMQ
+- **Databases:** PostgreSQL, MongoDB, Prisma, Drizzle ORM
+- **DevOps:** Docker, Kubernetes, GitHub Actions, GitLab CI/CD
+- **Testing:** Jest, Vitest, React Testing Library
 
 ### 🚀 Currently Exploring
-
-I'm continuously expanding my expertise in:
-
-* **System Design**
-* **Cloud Architecture**
-* **DevOps & CI/CD**
-* **Application Security**
-* **AI APIs & LLM Integration**
-* Distributed systems and scalable backend architecture
+System Design · Cloud Architecture · Application Security · LLM Integration
 
 ### 🌍 Open to Opportunities
-
-I'm currently interested in **Full Stack, Backend, and Mobile Developer opportunities** where I can contribute to challenging products, scalable systems, and real-world business problems.
-
-**Open to relocation and international opportunities.**
+Full Stack, Backend, and Mobile roles. Open to relocation and international opportunities.
 
 ---
 
